@@ -26,3 +26,8 @@ Push to the branch (git push origin feature/improvement).
 
 Create a new Pull Request.
 
+## Tools Used
+- VSCode
+- Jupyter Notebook
+- Google Slides
+    
